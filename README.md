@@ -18,9 +18,9 @@ An enterprise-class research analysis system integrating advanced AI capabilitie
 ## Interface Preview
 
 <div align="center">
-  <img src="./ui/1.png" alt="ResearchIQ UI" width="500" style="cursor: zoom-in; transition: transform 0.3s;" onclick="this.style.transform = this.style.transform === 'scale(1.5)' ? 'scale(1)' : 'scale(1.5)'; this.style.cursor = this.style.transform === 'scale(1)' ? 'zoom-in' : 'zoom-out';" />
+  <img src="./ui/1.png" alt="ResearchIQ UI" />
   <br />
-  <img src="./ui/2.png" alt="ResearchIQ UI" width="500" style="cursor: zoom-in; transition: transform 0.3s;" onclick="this.style.transform = this.style.transform === 'scale(1.5)' ? 'scale(1)' : 'scale(1.5)'; this.style.cursor = this.style.transform === 'scale(1)' ? 'zoom-in' : 'zoom-out';" />
+  <img src="./ui/2.png" alt="ResearchIQ UI" />
 </div>
 
 ---
